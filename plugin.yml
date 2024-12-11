@@ -1,0 +1,7 @@
+name: DDoS
+main: anti\Main
+api: [3.0.0, 3.0.1, 3.28.0]
+version: 1.0.0-BETA
+author: Jared723
+website: vk.com/id656997363
+description: защита от Дос ддос атак
